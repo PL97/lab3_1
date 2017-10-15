@@ -35,4 +35,5 @@
         </dependency>
     </dependencies>
     <name>lab3</name>
+	<extraChange>changes</extraChange>
 </project>

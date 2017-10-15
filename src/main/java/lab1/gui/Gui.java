@@ -12,9 +12,7 @@ import javafx.scene.input.KeyEvent;
 import javafx.scene.input.MouseEvent;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
-/**
- * @author kkcckc
- */
+
 public class Gui extends Application {
 
     @Override
