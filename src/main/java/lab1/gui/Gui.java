@@ -17,6 +17,7 @@ public class Gui extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
+		//some changes
         stage.setTitle("Lab ONE");
         stage.getIcons().add(new Image(getClass().getResourceAsStream("/start.png")));
         stage.initStyle(StageStyle.UNDECORATED);

@@ -54,7 +54,6 @@ public class mainWindow {
         //}
         //test random walk
         //for (int i = 0; i < 20; i++) {
-        System.out.println(randomWalk(G));
         //}
 
         //test create new text
