@@ -12,12 +12,21 @@ import javafx.scene.input.KeyEvent;
 import javafx.scene.input.MouseEvent;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
+<<<<<<< HEAD
 
+=======
+/**
+ * @author kkcckc
+ */
+>>>>>>> origin/1152130106
 public class Gui extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
+<<<<<<< HEAD
 		//some changes
+=======
+>>>>>>> origin/1152130106
         stage.setTitle("Lab ONE");
         stage.getIcons().add(new Image(getClass().getResourceAsStream("/start.png")));
         stage.initStyle(StageStyle.UNDECORATED);

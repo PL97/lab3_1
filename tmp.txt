@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿
+=======
+
+>>>>>>> origin/1152130106
  i
 
 35&×312
@@ -6,6 +10,7 @@
     213798saw a big bird i{}
  ^71 i)(love that old saw i\
  .。Start {}studies studying worried   	 End8213
+<<<<<<< HEAD
   Start bee seen  does End|
   Start doing  study done begin   end_
 
@@ -19,4 +24,14 @@ not end were not end `
 is not end really not 
 add some changes in first commit
 changes made in B1
+=======
+  Start doing  study done begin   end_
+ start before after was end==
+
+
+start bee begin  end is~
+not end were not end `
+is not end really not 
+
+>>>>>>> origin/1152130106
 

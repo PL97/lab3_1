@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+=======
+>>>>>>> origin/1152130106
     <modelVersion>4.0.0</modelVersion>
     <groupId>lab1</groupId>
     <artifactId>lemmatization</artifactId>
@@ -34,6 +37,12 @@
             <version>8.9</version>
         </dependency>
     </dependencies>
+<<<<<<< HEAD
     <name>lab3</name>
 	<extraChange>changes</extraChange>
 </project>
+=======
+    <name>lab1</name>
+</project>
+fdddddddddddaa
+>>>>>>> origin/1152130106
